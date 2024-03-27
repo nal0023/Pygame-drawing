@@ -1,1 +1,1 @@
-# Pygame-drawing
+Experimentation with Pygame modules and math module, to create a simple drawing program using computer graphics. When you run the file press space bar and move the arrow keys to a gradient of colors around the GUI. This was the most interesting and fun module I've used so far and I plan on coming back and cleaning up the code to see if I can make any changes and experiment around more.
